@@ -1,0 +1,7 @@
+C:\Users\Bohdan\source\repos\LECutscenePositionFixer\LECutscenePositionFixer\bin\Release\LECutscenePositionFixer.exe.config
+C:\Users\Bohdan\source\repos\LECutscenePositionFixer\LECutscenePositionFixer\bin\Release\LECutscenePositionFixer.exe
+C:\Users\Bohdan\source\repos\LECutscenePositionFixer\LECutscenePositionFixer\bin\Release\LECutscenePositionFixer.pdb
+C:\Users\Bohdan\source\repos\LECutscenePositionFixer\LECutscenePositionFixer\obj\Release\LECutscenePositionFixer.csproj.AssemblyReference.cache
+C:\Users\Bohdan\source\repos\LECutscenePositionFixer\LECutscenePositionFixer\obj\Release\LECutscenePositionFixer.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\source\repos\LECutscenePositionFixer\LECutscenePositionFixer\obj\Release\LECutscenePositionFixer.exe
+C:\Users\Bohdan\source\repos\LECutscenePositionFixer\LECutscenePositionFixer\obj\Release\LECutscenePositionFixer.pdb
